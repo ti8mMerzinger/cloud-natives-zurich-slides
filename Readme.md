@@ -17,9 +17,16 @@ November 9, 2023
 - Marcel Neidinger | Solution Architect, AWS - Test your Architectural Resilience with Chaos Engineering [Slides]()
 - Angelo Skibola | Solutions Architect, AWS Switzerland - Best Practices for Architecting Highly Available Solutions on AWS [Slides]()
 
+## From DevOps to GitOps - Bridging the Gap
+
+February 22, 2024
+
+- Iris Hunkeler | The Evolution of DevOps: A Softwre Engineer's Perspective [Slides]()
+- Manuel Novak | Unlocking GitOps: A Journey through Basiscs, Principles and Integrations [Slides]()
+
 ## How to master Distributed Systems & Commit Signing
 
-April 18, 2023
+April 18, 2024
 
 - Adam Ralph | Five common mistakes with distributed systems [Slides](https://particular.net/videos#presentations)
 - Ondrej Halaska | SEnhancing a security posture within SDLC with commit signing [Slides](slides/2024-distributed-systems-commit-signing/2024-Commit-Signing.pdf) [Demo](slides/2024-distributed-systems-commit-signing/comming-signing-demo-final.mov)
