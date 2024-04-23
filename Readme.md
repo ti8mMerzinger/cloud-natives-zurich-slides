@@ -16,3 +16,10 @@ November 9, 2023
 - Christian Essig | Senior Cloud Engineer, ti&m - Mastering Infrastructure Tests with AWS CDK [Slides]()
 - Marcel Neidinger | Solution Architect, AWS - Test your Architectural Resilience with Chaos Engineering [Slides]()
 - Angelo Skibola | Solutions Architect, AWS Switzerland - Best Practices for Architecting Highly Available Solutions on AWS [Slides]()
+
+## How to master Distributed Systems & Commit Signing
+
+April 18, 2023
+
+- Adam Ralph | Five common mistakes with distributed systems [Slides](https://particular.net/videos#presentations)
+- Ondrej Halaska | SEnhancing a security posture within SDLC with commit signing [Slides](slides/2024-distributed-systems-commit-signing/2024-Commit-Signing.pdf) [Demo](slides/2024-distributed-systems-commit-signing/comming-signing-demo-final.mov)
